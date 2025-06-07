@@ -4,7 +4,7 @@ A deep learning-powered image classification web app that identifies monkey spec
 To run the project :
 1.Ensure that the 10_Monkey_Species.zip file is present in the root directory. Extract it in the main folder.
 2.Install the following depencies
-  pip install torch torchvision streamlit matplotlib pandas numpy pathlib PIL.
+  pip install torch torchvision streamlit matplotlib pandas numpy pathlib pillow.
 3. In the terminal - streamlit run gui.py
 
  🧠 Model Overview
